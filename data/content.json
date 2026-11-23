@@ -1,0 +1,14 @@
+{
+  "profile": {"name":"Phạm Hoàng Giang","email":"hoanggiangpham1988@gmail.com","phone":"","location":"Đà Nẵng, Việt Nam","linkedin":"","fiverr":"","upwork":"","quoteEmail":"hoanggiangpham1988@gmail.com"},
+  "projects": [
+    {"titleVi":"Scan 3D chi tiết và vật thể kích thước lớn","titleEn":"3D Scanning of Parts and Large Objects","categoryVi":"Số hóa vật thể","categoryEn":"3D Digitization","descriptionVi":"Thu thập dữ liệu hình học, căn chỉnh và xử lý mesh phục vụ lưu trữ, kiểm tra hoặc thiết kế ngược.","descriptionEn":"Capture geometric data, align scans and process meshes for archiving, inspection or reverse engineering.","image":"","tools":"3D Scanner / Scan workflow","link":""},
+    {"titleVi":"Phục hồi mô hình CAD từ dữ liệu scan","titleEn":"CAD Reconstruction from Scan Data","categoryVi":"Cơ khí / Thiết kế ngược","categoryEn":"Mechanical / Reverse Engineering","descriptionVi":"Phân tích dữ liệu mesh và dựng lại mô hình CAD theo đặc trưng hình học của chi tiết.","descriptionEn":"Analyze mesh data and rebuild CAD geometry based on the design features of the part.","image":"","tools":"Geomagic Design X / CATIA","link":""}
+  ],
+  "gallery": [],
+  "courses": [
+    {"titleVi":"Scan 3D & quy trình thiết kế ngược","titleEn":"3D Scanning & Reverse Engineering Workflow","levelVi":"Cơ bản đến ứng dụng","levelEn":"Fundamentals to applied practice","descriptionVi":"Nguyên lý scan, chuẩn bị mẫu, thu thập dữ liệu, căn chỉnh và đánh giá chất lượng mesh.","descriptionEn":"Scanning principles, part preparation, data capture, alignment and mesh quality assessment.","software":"3D Scanner / EXStar Hub","link":""},
+    {"titleVi":"Geomagic Design X – Scan to CAD","titleEn":"Geomagic Design X – Scan to CAD","levelVi":"Thực hành chuyên sâu","levelEn":"Advanced hands-on","descriptionVi":"Xử lý dữ liệu scan, tạo sketch, dựng bề mặt và mô hình CAD tham số.","descriptionEn":"Scan data processing, sketch creation, surface reconstruction and parametric CAD modeling.","software":"Geomagic Design X","link":""},
+    {"titleVi":"CATIA V5 – Thiết kế cơ khí và bề mặt","titleEn":"CATIA V5 – Mechanical & Surface Design","levelVi":"Theo chuyên đề","levelEn":"Topic-based","descriptionVi":"Thiết kế chi tiết, surface modeling và ứng dụng CATIA trong quy trình thiết kế ngược.","descriptionEn":"Part design, surface modeling and CATIA applications in reverse engineering workflows.","software":"CATIA V5","link":""}
+  ],
+  "cv": {"vi":"","en":""}
+}
